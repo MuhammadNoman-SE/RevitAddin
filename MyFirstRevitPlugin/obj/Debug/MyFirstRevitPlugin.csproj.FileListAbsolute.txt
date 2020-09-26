@@ -1,0 +1,5 @@
+E:\MyFirstRevitPlugin\bin\Debug\MyFirstRevitPlugin.addin
+E:\MyFirstRevitPlugin\bin\Debug\MyFirstRevitPlugin.dll
+E:\MyFirstRevitPlugin\bin\Debug\MyFirstRevitPlugin.pdb
+E:\MyFirstRevitPlugin\obj\Debug\MyFirstRevitPlugin.dll
+E:\MyFirstRevitPlugin\obj\Debug\MyFirstRevitPlugin.pdb
